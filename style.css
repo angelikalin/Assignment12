@@ -1,0 +1,16 @@
+div{
+	width: 600px;
+	height: 400px;
+	background-color: #9fa8b7;
+	border-radius: 2px;
+	position: relative;
+	left: 200px;
+}
+
+button{
+	position: relative;
+	margin: 10% 40% auto 40%;
+	border:none;
+	padding: 10px;
+	border-radius: 2px;
+}
